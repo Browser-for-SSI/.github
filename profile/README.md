@@ -1,5 +1,5 @@
-This organization is used as a installer package distribution site using GitHub Action and GitHub Releases.
+This organization is open for a installer package distribution site using GitHub Action and GitHub Releases.
 
-The main repositories are located here, and issues can be filed here as well.
+The main repositories are in GitLab, and issues can be filed there as well.
 - Source Code: https://gitlab.com/studioteatwo/gecko-dev-for-ssi
 - Document: https://gitlab.com/studioteatwo/api-docs
